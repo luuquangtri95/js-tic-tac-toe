@@ -1,9 +1,4 @@
-import {
-  getCellElementList,
-  getCurrentTurnElement,
-  getCellElementAtIdx,
-  getGameStatusElement,
-} from "./selectors.js";
+
 
 /**
  * Global variables

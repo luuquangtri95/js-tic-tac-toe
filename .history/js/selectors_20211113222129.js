@@ -12,7 +12,7 @@ export function getCurrentTurnElement() {
 }
 
 export function getCellElementAtIdx(index) {
-  return document.querySelector(`ul#cellList > li:nth-child(${index + 1})`);
+  return;
 }
 
 export function getGameStatusElement() {

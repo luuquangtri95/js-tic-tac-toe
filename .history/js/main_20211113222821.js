@@ -4,7 +4,7 @@ import {
   getCellElementAtIdx,
   getGameStatusElement,
 } from "./selectors.js";
-
+console.log(getCellElementList());
 /**
  * Global variables
  */
