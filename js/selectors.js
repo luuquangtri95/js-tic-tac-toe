@@ -18,3 +18,11 @@ export function getCellElementAtIdx(index) {
 export function getGameStatusElement() {
   return document.getElementById("gameStatus");
 }
+
+export function getReplayButton() {
+  return document.getElementById("replayGame");
+}
+
+export function getCellListElement() {
+  return document.getElementById("cellList");
+}
